@@ -1,0 +1,11 @@
+<root>
+    <testjdbc>jdbc:iotdb://223.99.13.54:5098/</testjdbc>
+    <jdbc>jdbc:iotdb://172.16.50.6:6667/</jdbc>
+    <username>root</username>
+    <password>root</password>
+    <port>6066</port>
+    <driver>org.apache.iotdb.jdbc.IoTDBDriver</driver>
+    <kafkaIp>172.16.50.2</kafkaIp>
+    <kafkaPort>9093</kafkaPort>
+    <kafkaTopic>decodeInputAll</kafkaTopic>
+</root>

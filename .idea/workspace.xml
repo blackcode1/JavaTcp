@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f07978d-6dbe-4bec-a260-54d971e26a0b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaTcp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/school/server/JavaTcpMemory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaTcp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTcp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/school/server/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/school/server/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/school/server/SendThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/school/server/SendThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/school/server/database/oprateDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/school/server/database/oprateDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/school/server/entity/requestPackageEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/school/server/entity/requestPackageEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/school/server/entity/responsePackageEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/school/server/entity/responsePackageEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/school/server/tool/byteTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/school/server/tool/byteTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/school/server/AppTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1j7e598bpcGPOzn8J0AbvBBnWkc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.school.server" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\3\JavaTcp" />
+      <recent name="D:\3\JavaTcp\src\main\java\com\school\server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TCPClient">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.school.server.App" />
+      <module name="JavaTcp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.school.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleKafkaConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.school.server.SimpleKafkaConsumer" />
+      <module name="JavaTcp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.school.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TCPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.school.server.TCPClient" />
+      <module name="JavaTcp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.school.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="readIotdb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.school.server.readIotdb" />
+      <module name="JavaTcp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.school.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TCPClient" />
+        <item itemvalue="Application.readIotdb" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.SimpleKafkaConsumer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f07978d-6dbe-4bec-a260-54d971e26a0b" name="Default Changelist" comment="" />
+      <created>1603159371309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603159371309</updated>
+      <workItem from="1603159373621" duration="3198000" />
+      <workItem from="1603349864321" duration="1007000" />
+      <workItem from="1604037284895" duration="10852000" />
+      <workItem from="1605684139202" duration="3600000" />
+      <workItem from="1606487405043" duration="154000" />
+      <workItem from="1607444926303" duration="1046000" />
+      <workItem from="1607483023727" duration="6482000" />
+      <workItem from="1607564603238" duration="3520000" />
+      <workItem from="1607694921200" duration="2871000" />
+      <workItem from="1607738204929" duration="2692000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1010" y="449" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607696621156">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="449" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1607696621156" />
+    <state width="1258" height="37" key="GridCell.Tab.0.bottom" timestamp="1607568119008">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="746" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607505210385" />
+    <state width="1258" height="37" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1607568119008" />
+    <state width="1258" height="37" key="GridCell.Tab.0.center" timestamp="1607568119008">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="746" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607505210385" />
+    <state width="1258" height="37" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1607568119008" />
+    <state width="1258" height="37" key="GridCell.Tab.0.left" timestamp="1607568119008">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="746" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607505210385" />
+    <state width="1258" height="37" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1607568119008" />
+    <state width="1258" height="37" key="GridCell.Tab.0.right" timestamp="1607568119008">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="746" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607505210385" />
+    <state width="1258" height="37" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1607568119008" />
+    <state width="2517" height="674" key="GridCell.Tab.1.bottom" timestamp="1604052928690">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="674" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1604052928690" />
+    <state width="2517" height="674" key="GridCell.Tab.1.center" timestamp="1604052928690">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="674" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1604052928690" />
+    <state width="2517" height="674" key="GridCell.Tab.1.left" timestamp="1604052928690">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="674" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1604052928690" />
+    <state width="2517" height="674" key="GridCell.Tab.1.right" timestamp="1604052928690">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="674" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1604052928690" />
+    <state x="453" y="97" key="SettingsEditor" timestamp="1607521521341">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607491104495" />
+    <state x="453" y="97" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1607521521341" />
+    <state x="972" y="527" key="com.intellij.ide.util.TipDialog" timestamp="1607694982155">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="972" y="527" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1607694982155" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1607564836131">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1607564836131" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/school/server/SendThread.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
